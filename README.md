@@ -12,35 +12,14 @@
 
 ---
 
-## 📊 Actividad Anual
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/python-graph?username=Quique-F&theme=dark&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
+## 🛠️ Tecnologías y herramientas
 <p align="left">
-  <a href="https://www.google.com/search?q=que+es+python+programacion">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+html5+y+css3">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+css3+diseño+web">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+godot+engine">
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
@@ -58,14 +37,23 @@
 ## 💼 Experiencia Extra-tecnológica
 **Camarero (Hostelería)** | *Temporadas 2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
-* **Atención al cliente** y resolución de incidencias.
+* **Atención al cliente** y resolución de incidencias en tiempo real.
 
 ---
 
 ## 📂 Proyectos Destacados
-### 🐍 [Gestión de Notas (PRO)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
+
+### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
+*Proyecto de Programación en Python*
+> Script diseñado para automatizar la evaluación académica mediante lógica de control de datos.
+
 ### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
+*Administración y Configuración de Sistemas*
+> Gestión de dominios, servicios de red y administración de servidores Windows/Linux.
+
 ### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
+*Desarrollo de Videojuegos*
+> Proyecto escolar de creación de mecánicas básicas y lógica de juego.
 
 ---
 
