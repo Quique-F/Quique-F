@@ -15,21 +15,23 @@
 ## 🛠️ Tecnologías y herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## ⚙️ Especialidades Técnicas
-| Hardware & Mantenimiento | Software & Sistemas |
+| Hardware & Mantenimiento | Desarrollo & Sistemas |
 | :--- | :--- |
 | 🔧 Montaje completo de PCs | 🐍 Scripting en Python |
-| 🧹 Limpieza técnica profunda | 🐧 Administración de Linux |
-| 🌡️ Gestión térmica (Pasta/Pads) | 💻 Optimización de Windows |
-| 🔍 Diagnóstico de componentes | 📦 Virtualización |
+| 🧹 Limpieza técnica profunda | 🎮 Desarrollo en Godot Engine |
+| 🌡️ Gestión térmica (Pasta/Pads) | 🌐 Maquetación HTML/CSS |
+| 🔍 Diagnóstico de componentes | 🐧 Administración de Linux |
 
 ---
 
@@ -37,7 +39,6 @@
 **Camarero (Hostelería)** | *Temporadas 2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
 * **Atención al cliente** y resolución de incidencias.
-* Disciplina, orden y puntualidad extrema.
 
 ---
 
@@ -45,11 +46,15 @@
 
 ### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
 *Proyecto de Programación en Python*
-> Script diseñado para automatizar la evaluación académica. Calcula medias, verifica el porcentaje de asistencia y determina automáticamente la promoción del alumno.
+> Script para automatizar la evaluación académica: calcula medias y determina la promoción.
+
+### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
+*Desarrollo de Videojuegos*
+> Proyecto de exploración de mecánicas y lógica de juego en entorno 2D/3D.
 
 ### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
-*Administración y Configuración de Sistemas*
-> Repositorio dedicado a las prácticas de la asignatura de SOR: gestión de dominios, servicios de red y administración de servidores Windows/Linux.
+*Administración de Sistemas*
+> Prácticas de gestión de dominios y administración de servidores Windows/Linux.
 
 ---
 
