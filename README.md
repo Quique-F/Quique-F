@@ -39,6 +39,17 @@
 
 ---
 
+## 📖 Formación y Trayectoria
+
+### 🇮🇹 **Erasmus+ 2025/26**
+* Próxima estancia formativa y profesional en **Italia**, enfocada en la expansión de conocimientos técnicos en entornos internacionales.
+
+### 🏫 **Prácticas SMR - Colegio Unión Cristiana (Sueca)**
+* Apoyo técnico y mantenimiento de infraestructura informática en el centro educativo.
+* Diagnóstico de hardware y gestión de sistemas operativos.
+
+---
+
 ## ⚙️ Especialidades Técnicas
 | Hardware & Mantenimiento | Desarrollo & Sistemas |
 | :--- | :--- |
@@ -49,26 +60,16 @@
 
 ---
 
-## 💼 Experiencia Extra-tecnológica
-**Camarero (Hostelería)** | *Temporadas 2024 - 2025*
-* Capacidad de trabajo bajo **alta presión**.
-* **Atención al cliente** y resolución de incidencias.
+## 💼 Experiencia Adicional
+**Hostelería** | *Camarero (Temporadas 2024 - 2025)*
+* Capacidad de resolución de problemas bajo presión y atención al público.
 
 ---
 
 ## 📂 Proyectos Destacados
-
-### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
-*Proyecto de Programación en Python*
-> Script para automatizar la evaluación académica: calcula medias y determina la promoción.
-
-### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
-*Desarrollo de Videojuegos*
-> Proyecto de exploración de mecánicas y lógica de juego en entorno 2D/3D.
-
-### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
-*Administración de Sistemas*
-> Prácticas de gestión de dominios y administración de servidores Windows/Linux.
+* 🐍 **[Gestión de Notas (PRO)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)**
+* 🎮 **[Mini-juego en Godot](https://github.com/Quique-F)**
+* 🖥️ **[Sistemas en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)**
 
 ---
 
