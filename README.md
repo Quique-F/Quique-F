@@ -11,19 +11,18 @@
 
 ---
 
-## 📊 Mi Actividad y Estadísticas
+## 📈 Mi Actividad Anual (Cuadrícula de Contribuciones)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quique-F&theme=github-compact&bg_color=0d1117&color=40c463&line=40c463&point=40c463&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="Racha de Quique" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Quique" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark&hide_border=true" alt="Lenguajes de Quique" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="Racha" />
 </p>
 
 ---
 
-## 🛠️ Tecnologías (Haz clic para saber más)
+## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
 <p align="left">
   <a href="https://www.google.com/search?q=que+es+python+programacion">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
