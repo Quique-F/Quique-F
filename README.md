@@ -20,6 +20,9 @@
   <a href="https://www.google.com/search?q=que+es+godot+engine">
     <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   </a>
+  <a href="https://www.google.com/search?q=que+es+github+y+para+que+sirve">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.google.com/search?q=que+es+html5+y+css3">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
@@ -31,9 +34,6 @@
   </a>
   <a href="https://www.google.com/search?q=que+es+windows+11+pro">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+virtualizacion+virtualbox">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   </a>
 </p>
 
@@ -78,9 +78,4 @@
 <a href="mailto:ferrimartinezquique@gmail.com">
   <img src="https://img.shields.io/badge/Email-ferrimartinezquique@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-</p>
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Hardware%20is%20the%20platform%20where%20the%20software%20dreams.&author=Quique-F&theme=dark" />
 </p>
