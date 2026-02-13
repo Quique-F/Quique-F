@@ -17,29 +17,40 @@
   <a href="https://www.google.com/search?q=que+es+python+programacion">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Saber más sobre Python" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+windows+11+pro">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Saber más sobre Windows" />
+  <a href="https://www.google.com/search?q=que+es+html5+y+css3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Saber más sobre HTML5" />
+  </a>
+  <a href="https://www.google.com/search?q=que+es+css3+diseño+web">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Saber más sobre CSS3" />
   </a>
   <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Saber más sobre Linux" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+virtualizacion+virtualbox">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" title="Saber más sobre VirtualBox" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+git+control+de+versiones">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Saber más sobre Git" />
+  <a href="https://www.google.com/search?q=que+es+godot+engine">
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" title="Saber más sobre Godot" />
   </a>
 </p>
 
 ---
 
 ## ⚙️ Especialidades Técnicas
-| Hardware & Mantenimiento | Software & Sistemas |
+| Hardware & Mantenimiento | Desarrollo & Web |
 | :--- | :--- |
 | 🔧 Montaje completo de PCs | 🐍 Scripting en Python |
-| 🧹 Limpieza técnica profunda | 🐧 Administración de Linux |
-| 🌡️ Gestión térmica (Pasta/Pads) | 💻 Optimización de Windows |
-| 🔍 Diagnóstico de componentes | 📦 Virtualización |
+| 🧹 Limpieza técnica profunda | 🌐 Maquetación HTML/CSS |
+| 🌡️ Gestión térmica (Pasta/Pads) | 🎮 Desarrollo básico en Godot |
+| 🔍 Diagnóstico de componentes | 💻 Optimización de Windows |
+
+---
+
+## 📈 Contribuciones & Actividad
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Quique-F/Quique-F/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -47,7 +58,6 @@
 **Camarero (Hostelería)** | *Temporadas 2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
 * **Atención al cliente** y resolución de incidencias en tiempo real.
-* Disciplina, orden y puntualidad extrema.
 
 ---
 
@@ -55,11 +65,15 @@
 
 ### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
 *Proyecto de Programación en Python*
-> Script diseñado para automatizar la evaluación académica. Calcula medias, verifica el porcentaje de asistencia y determina automáticamente la promoción del alumno.
+> Script diseñado para automatizar la evaluación académica mediante lógica de control de datos.
+
+### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
+*Desarrollo de Videojuegos*
+> Proyecto escolar donde exploré la creación de mecánicas básicas y lógica de juego.
 
 ### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
 *Administración y Configuración de Sistemas*
-> Repositorio dedicado a las prácticas de la asignatura de SOR: gestión de dominios, servicios de red y administración de servidores Windows/Linux.
+> Gestión de dominios, servicios de red y administración de servidores.
 
 ---
 
