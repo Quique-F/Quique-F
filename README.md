@@ -15,40 +15,42 @@
 ## 🛠️ Tecnologías y herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## ⚙️ Especialidades Técnicas
-| Hardware & Mantenimiento | Desarrollo & Web |
+| Hardware & Mantenimiento | Software & Sistemas |
 | :--- | :--- |
 | 🔧 Montaje completo de PCs | 🐍 Scripting en Python |
-| 🧹 Limpieza técnica profunda | 🌐 Maquetación HTML/CSS |
-| 🌡️ Gestión térmica (Pasta/Pads) | 🎮 Desarrollo básico en Godot |
-| 🔍 Diagnóstico de componentes | 💻 Optimización de Windows |
+| 🧹 Limpieza técnica profunda | 🐧 Administración de Linux |
+| 🌡️ Gestión térmica (Pasta/Pads) | 💻 Optimización de Windows |
+| 🔍 Diagnóstico de componentes | 📦 Virtualización |
 
 ---
 
 ## 💼 Experiencia Extra-tecnológica
-**Camarero (Hostelería)** | *Temporadas 2024 - 2025*
+**Camarero (Hostelería)** | *2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
 * **Atención al cliente** y resolución de incidencias.
+* Disciplina y puntualidad extrema.
 
 ---
 
-## 📂 Proyectos Destacados
-* 🐍 **[Gestión de Notas (PRO)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)**
-* 🖥️ **[Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)**
-* 🎮 **[Mini-juego en Godot Engine](https://github.com/Quique-F)**
+## 📂 Proyectos en el Radar
+### 🐍 [Script Gestión Notas](https://github.com/Quique-F/gestion-notas)
+*Automatización del cálculo de promociones académicas mediante Python.*
+
+### 🛠️ [Guía de Limpieza Pro](https://github.com/Quique-F) (Próximamente)
+*Documentación técnica sobre mantenimiento preventivo de hardware.*
 
 ---
 
-## 📫 ¿Conectamos?
+## 📫 Conectamos?
 <p align="left">
 <a href="mailto:ferrimartinezquique@gmail.com">
   <img src="https://img.shields.io/badge/Email-ferrimartinezquique@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
