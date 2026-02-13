@@ -15,19 +15,19 @@
 ## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
 <p align="left">
   <a href="https://www.google.com/search?q=que+es+python+programacion">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Saber más sobre Python" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+windows+11">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <a href="https://www.google.com/search?q=que+es+windows+11+pro">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Saber más sobre Windows" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+linux+sistema+operativo">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Saber más sobre Linux" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+virtualbox">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <a href="https://www.google.com/search?q=que+es+virtualizacion+virtualbox">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" title="Saber más sobre VirtualBox" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+git+y+github">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.google.com/search?q=que+es+git+control+de+versiones">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Saber más sobre Git" />
   </a>
 </p>
 
@@ -44,19 +44,22 @@
 ---
 
 ## 💼 Experiencia Extra-tecnológica
-**Camarero (Hostelería)** | *2024 - 2025*
+**Camarero (Hostelería)** | *Temporadas 2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
-* **Atención al cliente** y resolución de incidencias.
-* Disciplina y puntualidad extrema.
+* **Atención al cliente** y resolución de incidencias en tiempo real.
+* Disciplina, orden y puntualidad extrema.
 
 ---
 
-## 📂 Proyectos en el Radar
-### 🐍 [Script Gestión Notas](https://github.com/Quique-F/gestion-notas)
-*Automatización del cálculo de promociones académicas mediante Python.*
+## 📂 Proyectos Destacados
 
-### 🛠️ [Guía de Limpieza Pro](https://github.com/Quique-F)
-*Documentación técnica sobre mantenimiento preventivo de hardware (Próximamente).*
+### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
+*Proyecto de Programación en Python*
+> Script diseñado para automatizar la evaluación académica. Calcula medias, verifica el porcentaje de asistencia y determina automáticamente la promoción del alumno.
+
+### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
+*Administración y Configuración de Sistemas*
+> Repositorio dedicado a las prácticas de la asignatura de SOR: gestión de dominios, servicios de red y administración de servidores Windows/Linux.
 
 ---
 
