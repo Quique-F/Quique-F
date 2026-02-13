@@ -12,34 +12,13 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
+## 🛠️ Tecnologías y herramientas
 <p align="left">
-  <a href="https://www.google.com/search?q=que+es+python+programacion">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+windows+11+pro">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+virtualizacion+virtualbox">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+git+control+de+versiones">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🔗 Fase 2: Mejoras Visuales y Profesionales
-
-### 📊 Mi actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Quique-F" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -57,17 +36,20 @@
 ## 💼 Experiencia Extra-tecnológica
 **Camarero (Hostelería)** | *Temporadas 2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
-* **Atención al cliente** y resolución de incidencias en tiempo real.
+* **Atención al cliente** y resolución de incidencias.
+* Disciplina, orden y puntualidad extrema.
 
 ---
 
-## 📂 Proyectos Destacados (📌 Pins)
+## 📂 Proyectos Destacados
 
 ### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
-> Script diseñado para automatizar la evaluación académica. Calcula medias, verifica asistencia y determina la promoción.
+*Proyecto de Programación en Python*
+> Script diseñado para automatizar la evaluación académica. Calcula medias, verifica el porcentaje de asistencia y determina automáticamente la promoción del alumno.
 
 ### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
-> Gestión de dominios, servicios de red y administración de servidores Windows/Linux.
+*Administración y Configuración de Sistemas*
+> Repositorio dedicado a las prácticas de la asignatura de SOR: gestión de dominios, servicios de red y administración de servidores Windows/Linux.
 
 ---
 
