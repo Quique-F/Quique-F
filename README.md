@@ -12,15 +12,13 @@
 
 ---
 
-## 📊 Mi Actividad en GitHub
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/repo-size/Quique-F/Curso-SMR?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/Quique-F/Curso-SMR?style=for-the-badge&logo=git&color=orange" />
-</p>
+## 📊 Mi actividad en GitHub
 
-> [!TIP]
-> Justo debajo de este README verás mi cuadro oficial de contribuciones (los cuadraditos verdes) que GitHub genera automáticamente.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Quique-F" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 ---
 
