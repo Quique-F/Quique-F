@@ -8,15 +8,14 @@
 * 🎓 **Estudio:** 2º de SMR en el **CIPFP Luis Suñer Sanchis** (Alzira)
 * 📍 **Ubicación:** Alzira, Valencia
 * 🚗 **Movilidad:** Carnet B y vehículo propio
-* 🐍 **Pasión:** Programación en Python y el "Hardware Modding"
 
 ---
 
-## 📊 Mi actividad en GitHub
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Quique-F" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de Quique-F" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
@@ -36,9 +35,6 @@
   <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+godot+engine">
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -48,31 +44,23 @@
 | :--- | :--- |
 | 🔧 Montaje completo de PCs | 🐍 Scripting en Python |
 | 🧹 Limpieza técnica profunda | 🌐 Maquetación HTML/CSS |
-| 🌡️ Gestión térmica (Pasta/Pads) | 🎮 Desarrollo básico en Godot |
-| 🔍 Diagnóstico de componentes | 💻 Optimización de Windows |
+| 🌡️ Gestión térmica (Pasta/Pads) | 💻 Optimización de Windows |
+| 🔍 Diagnóstico de componentes | 📦 Virtualización |
 
 ---
 
 ## 💼 Experiencia Extra-tecnológica
 **Camarero (Hostelería)** | *Temporadas 2024 - 2025*
 * Capacidad de trabajo bajo **alta presión**.
-* **Atención al cliente** y resolución de incidencias en tiempo real.
+* **Atención al cliente** y resolución de problemas.
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🐍 [Gestión de Notas y Promoción (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
-*Proyecto de Programación en Python*
-> Script diseñado para automatizar la evaluación académica mediante lógica de control de datos.
-
-### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
-*Desarrollo de Videojuegos*
-> Proyecto escolar donde exploré la creación de mecánicas básicas y lógica de juego.
-
+### 🐍 [Gestión de Notas (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
 ### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
-*Administración y Configuración de Sistemas*
-> Gestión de dominios, servicios de red y administración de servidores.
+### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
 
 ---
 
