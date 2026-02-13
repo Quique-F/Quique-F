@@ -12,34 +12,34 @@
 
 ---
 
-## 📈 Contribuciones & Actividad
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="GitHub Streak" />
+## 📊 Mi Actividad en GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repo-size/Quique-F/Curso-SMR?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/Quique-F/Curso-SMR?style=for-the-badge&logo=git&color=orange" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/distributors/Quique-F/Curso-SMR?style=flat-square&color=blue&label=Repositorios" />
-  <img src="https://img.shields.io/github/last-commit/Quique-F/Curso-SMR?style=flat-square&color=green&label=Último%20Commit" />
-</p>
+> [!TIP]
+> Justo debajo de este README verás mi cuadro oficial de contribuciones (los cuadraditos verdes) que GitHub genera automáticamente.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
 <p align="left">
   <a href="https://www.google.com/search?q=que+es+python+programacion">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Saber más sobre Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://www.google.com/search?q=que+es+html5+y+css3">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Saber más sobre HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
   <a href="https://www.google.com/search?q=que+es+css3+diseño+web">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Saber más sobre CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
   <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Saber más sobre Linux" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
   <a href="https://www.google.com/search?q=que+es+godot+engine">
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" title="Saber más sobre Godot" />
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   </a>
 </p>
 
