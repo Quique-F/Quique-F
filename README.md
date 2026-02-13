@@ -3,73 +3,48 @@
 </p>
 
 ## 🚀 Sobre mí
-> **Técnico de 19 años** enfocado en el mantenimiento físico de sistemas y la automatización. Mi filosofía: *"Un hardware limpio y un código ordenado son la base de un sistema imparable."*
+> **Técnico de 19 años** enfocado en el mantenimiento físico de sistemas y la automatización.
 
-* 🎓 **Estudio:** 2º de SMR en el **CIPFP Luis Suñer Sanchis** (Alzira)
+* 🎓 **Estudio:** 2º de SMR en el **CIPFP Luis Suñer Sanchis**
 * 📍 **Ubicación:** Alzira, Valencia
-* 🚗 **Movilidad:** Carnet B y vehículo propio
+* 🐍 **Pasión:** Python y Hardware
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📊 Mi Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de Quique-F" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark" alt="Estadísticas" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark" alt="Lenguajes" />
 </p>
 
 ---
 
-## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
+## 🛠️ Tecnologías
 <p align="left">
-  <a href="https://www.google.com/search?q=que+es+python+programacion">
+  <a href="https://www.google.com/search?q=que+es+python">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+html5+y+css3">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+css3+diseño+web">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://www.google.com/search?q=que+es+linux+ubuntu+debian">
+  <a href="https://www.google.com/search?q=que+es+linux">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
+  <a href="https://www.google.com/search?q=que+es+html5">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
 </p>
-
----
-
-## ⚙️ Especialidades Técnicas
-| Hardware & Mantenimiento | Desarrollo & Web |
-| :--- | :--- |
-| 🔧 Montaje completo de PCs | 🐍 Scripting en Python |
-| 🧹 Limpieza técnica profunda | 🌐 Maquetación HTML/CSS |
-| 🌡️ Gestión térmica (Pasta/Pads) | 💻 Optimización de Windows |
-| 🔍 Diagnóstico de componentes | 📦 Virtualización |
-
----
-
-## 💼 Experiencia Extra-tecnológica
-**Camarero (Hostelería)** | *Temporadas 2024 - 2025*
-* Capacidad de trabajo bajo **alta presión**.
-* **Atención al cliente** y resolución de problemas.
 
 ---
 
 ## 📂 Proyectos Destacados
-
-### 🐍 [Gestión de Notas (Centro Mejora 3)](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)
-### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
-### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
+* 🐍 **[Gestión de Notas](https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203)**
+* 🖥️ **[Sistemas en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)**
+* 🎮 **[Mini-juego Godot](https://github.com/Quique-F)**
 
 ---
 
-## 📫 ¿Conectamos?
-<p align="left">
-<a href="mailto:ferrimartinezquique@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ferrimartinezquique@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-</p>
+## 📫 Contacto
+* 📧 **Email:** [ferrimartinezquique@gmail.com](mailto:ferrimartinezquique@gmail.com)
 
 ---
 <p align="center">
