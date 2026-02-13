@@ -29,6 +29,9 @@
   <a href="https://www.google.com/search?q=que+es+godot+engine">
     <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" title="Saber más sobre Godot" />
   </a>
+  <a href="https://www.google.com/search?q=que+es+virtualizacion+virtualbox">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" title="Saber más sobre VirtualBox" />
+  </a>
 </p>
 
 ---
@@ -40,17 +43,6 @@
 | 🧹 Limpieza técnica profunda | 🌐 Maquetación HTML/CSS |
 | 🌡️ Gestión térmica (Pasta/Pads) | 🎮 Desarrollo básico en Godot |
 | 🔍 Diagnóstico de componentes | 💻 Optimización de Windows |
-
----
-
-## 📈 Contribuciones & Actividad
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true&mode=outbound" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Quique-F/Quique-F/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
@@ -69,7 +61,7 @@
 
 ### 🎮 [Mini-juego en Godot Engine](https://github.com/Quique-F)
 *Desarrollo de Videojuegos*
-> Proyecto escolar donde exploré la creación de mecánicas básicas y lógica de juego.
+> Proyecto escolar donde exploré la creación de mecánicas básicas y lógica de juego en un entorno 2D/3D.
 
 ### 🖥️ [Sistemas Operativos en Red (SOR)](https://github.com/Quique-F/Curso-SMR/tree/main/SOR)
 *Administración y Configuración de Sistemas*
