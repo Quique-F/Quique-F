@@ -11,25 +11,27 @@
 
 ---
 
-## 📊 Mi Actividad
+## 📊 Mi Actividad y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark" alt="Estadísticas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="Racha de Quique" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quique-F&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Quique" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quique-F&layout=compact&theme=dark&hide_border=true" alt="Lenguajes de Quique" />
 </p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías (Haz clic para saber más)
 <p align="left">
-  <a href="https://www.google.com/search?q=que+es+python">
+  <a href="https://www.google.com/search?q=que+es+python+programacion">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+linux">
+  <a href="https://www.google.com/search?q=que+es+linux+sistema+operativo">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
-  <a href="https://www.google.com/search?q=que+es+html5">
+  <a href="https://www.google.com/search?q=que+es+html5+y+css3">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
 </p>
