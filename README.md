@@ -12,13 +12,23 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.google.com/search?q=que+es+python+programacion">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/search?q=que+es+windows+11">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/search?q=que+es+linux+sistema+operativo">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+  <a href="https://www.google.com/search?q=que+es+virtualbox">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/search?q=que+es+git+y+github">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -45,12 +55,12 @@
 ### 🐍 [Script Gestión Notas](https://github.com/Quique-F/gestion-notas)
 *Automatización del cálculo de promociones académicas mediante Python.*
 
-### 🛠️ [Guía de Limpieza Pro](https://github.com/Quique-F) (Próximamente)
-*Documentación técnica sobre mantenimiento preventivo de hardware.*
+### 🛠️ [Guía de Limpieza Pro](https://github.com/Quique-F)
+*Documentación técnica sobre mantenimiento preventivo de hardware (Próximamente).*
 
 ---
 
-## 📫 Conectamos?
+## 📫 ¿Conectamos?
 <p align="left">
 <a href="mailto:ferrimartinezquique@gmail.com">
   <img src="https://img.shields.io/badge/Email-ferrimartinezquique@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
