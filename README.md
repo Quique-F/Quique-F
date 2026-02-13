@@ -49,7 +49,7 @@ Técnico de 19 años enfocado en el **mantenimiento físico de sistemas** y la *
 
 ## 📁 Proyectos Destacados
 
-### [🐍 Script de Gestión de Promoción Académica](https://github.com/Quique-F/gestion-notas)
+### [🐍 https://github.com/Quique-F/Curso-SMR/tree/main/PRO/Centro%20mejora%203 ]
 *Python · Lógica de Programación*
 > Herramienta desarrollada para automatizar la evaluación de alumnos basándose en notas y porcentajes de asistencia.
 
