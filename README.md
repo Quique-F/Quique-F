@@ -12,6 +12,18 @@
 
 ---
 
+## 📈 Contribuciones & Actividad
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/distributors/Quique-F/Curso-SMR?style=flat-square&color=blue&label=Repositorios" />
+  <img src="https://img.shields.io/github/last-commit/Quique-F/Curso-SMR?style=flat-square&color=green&label=Último%20Commit" />
+</p>
+
+---
+
 ## 🛠️ Tecnologías y herramientas (Haz clic para saber más)
 <p align="left">
   <a href="https://www.google.com/search?q=que+es+python+programacion">
@@ -40,17 +52,6 @@
 | 🧹 Limpieza técnica profunda | 🌐 Maquetación HTML/CSS |
 | 🌡️ Gestión térmica (Pasta/Pads) | 🎮 Desarrollo básico en Godot |
 | 🔍 Diagnóstico de componentes | 💻 Optimización de Windows |
-
----
-
-## 📈 Contribuciones & Actividad
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quique-F&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Quique-F/Quique-F/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
